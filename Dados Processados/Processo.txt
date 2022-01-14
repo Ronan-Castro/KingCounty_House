@@ -1,0 +1,14 @@
+Date --- Formato da data anteriormente yyyymmddT000000 ---
+
+Exemplo: "20141013T000000"
+	  yyyymmddT000000
+
+pós formatação de Date através do notepad++
+
+Exemplo: "20141013"
+	  yyyymmdd
+
+em sequência formatação de Date através do Excel
+
+Exemplo: "2014-10-13"
+	  yyyy-mm-dd
