@@ -1,3 +1,5 @@
+#Análise dos dados de vendas em King County e Regressão linear para predição de preço
+
 Análise de dados da base de vendas de King County, Washintown, USA.
 
 Base de dados do Kaggle: https://www.kaggle.com/datasets/harlfoxem/housesalesprediction
