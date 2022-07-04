@@ -8,4 +8,4 @@ Explicação dos dados, Página 3: https://www.slideshare.net/PawanShivhare1/pre
 
 DashBoard: https://app.powerbi.com/links/0-LN93anDF?ctid=0269a215-0421-4058-9d3a-a2ebf0bc1137&pbi_source=linkShare
 
-***Regressão Linear da biblioteca sk-learn***
+***Regressão Linear da biblioteca scikit-learn***
